@@ -1,0 +1,2 @@
+# FK-AKAMAI-SOLUTIONS
+Akamai 1.63 bypass
